@@ -1,0 +1,2 @@
+This is mockit.txt in mockers repo
+This will likely cause a conflict during merge with second repo
